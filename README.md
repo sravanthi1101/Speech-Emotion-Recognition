@@ -16,7 +16,7 @@ Toronto emotional speech set (TESS) from Kaggle
 - SoundDevice
 
 ### Model Accuracy
--RNN(LSTM)- 97.02%
--MLP-98.5%
+- RNN(LSTM) -> 97.02%
+- MLP -> 98.5%
 Hence, MLP gave higher accuracy
 
